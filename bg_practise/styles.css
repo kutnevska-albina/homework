@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.wrapper {
+	width: 1000px;
+	height: 440px;
+	background-color: #e05936;
+	margin: 0 auto;
+	background-image: url('img/cup.png'), url('img/q.png');
+	background-repeat: no-repeat;
+	background-position: center center, right center;
+}
+
+.text {
+	width: 369px;
+	height: 242px;
+	font-size: 50px;
+	color: #ffffff;
+	font-weight: 700;
+	padding-top: 95px;
+	padding-left: 60px;
+}
